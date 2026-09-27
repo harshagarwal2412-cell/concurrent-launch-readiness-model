@@ -1,0 +1,53 @@
+item_id,ws_id,name,owner,lead_days,duration_days,is_central
+p1,payer,Contract executed with performance terms and attribution logic agreed,Payer Growth,210,60,0
+p2,payer,"Eligibility and claims file specification agreed, test file exchanged",Clinical Ops,150,45,1
+p3,payer,Attributed patient panel received and reconciled against oncology practice rosters,Clinical Ops,90,30,1
+p4,payer,Quality and total-cost measures mapped to an internal KPI with a named owner,Clinical Ops,75,25,1
+p5,payer,Joint operating committee cadence and escalation contacts set with the plan,Market Ops,45,15,0
+l1,legal,"Entity, corporate practice structure and capital requirements confirmed for the state",Legal,200,70,1
+l2,legal,Professional liability coverage extended to the state and to home visits,Legal,140,40,1
+l3,legal,"NP scope, supervision or collaboration requirements confirmed and documented",Legal,150,45,1
+l4,legal,"Clinician state licenses verified, including compact eligibility where it applies",People Ops,120,60,1
+l5,legal,Payer credentialing and delegated roster submitted,Credentialing,120,75,1
+l6,legal,Controlled substance registrations in place for prescribing clinicians,Credentialing,100,45,1
+l7,legal,Behavioral health licensure and supervision path confirmed for the state,Legal,110,40,1
+l8,legal,Business associate agreements signed with every vendor touching patient data,Legal,70,30,1
+s1,staff,Market dyad hired: medical director and market operations leader,Recruiting,180,90,0
+s2,staff,Panel-size assumption set and staffing ramp modelled against enrollment curve,Clinical Ops,135,30,1
+s3,staff,"First cohort hired: nurse practitioners, RN care managers, health partners, social work",Recruiting,105,75,0
+s4,staff,"Geographic coverage plan for home visits, including drive-time and after-hours zones",Market Ops,80,30,0
+s5,staff,24/7 on-call rota built and the escalation tree tested end to end,Clinical Ops,45,25,1
+s6,staff,Backfill and surge plan for the first sixty days of enrollment,Market Ops,40,20,0
+t1,train,Care model standards localised to state rules and local provider landscape,Clinical Ops,110,40,1
+t2,train,Onboarding curriculum and training calendar sequenced against hire start dates,L&D,90,35,1
+t3,train,Subject matter experts confirmed and released from clinical time to teach,L&D,65,25,1
+t4,train,Cohort one completes onboarding and is signed off for patient contact,L&D,35,30,1
+t5,train,"Documentation and coding training delivered, including risk capture at the visit",Clinical Ops,30,20,1
+t6,train,Shadowing and precepting plan with the live market arranged,Clinical Ops,45,25,1
+o1,tools,"State, market and program configured in the care platform",Product,100,40,1
+o2,tools,"Care plan templates, assessments and note types built for the service line",Product,85,40,1
+o3,tools,"Task routing and work queues configured per role, not per person",Product,70,30,1
+o4,tools,"Scheduling configured for home visits, virtual visits and travel time",Product,70,30,1
+o5,tools,"Telephony, secure fax and inbound patient line provisioned and routed",IT,60,25,1
+o6,tools,Provider data and referral source directory loaded for the market,Clinical Ops,55,25,1
+o7,tools,"Operational dashboard live with enrollment, contact rate and visit completion",Product,45,30,1
+o8,tools,"Role permissions, device provisioning and access review for new hires",IT,35,20,1
+v1,vendor,Interpretation and translation vendor contracted for the market language mix,Market Ops,90,35,0
+v2,vendor,"Lab, imaging and records release pathways established with local systems",Market Ops,85,40,0
+v3,vendor,Durable medical equipment and home supply routes confirmed,Market Ops,70,30,0
+v4,vendor,"Courier, specimen handling and medical waste disposal set up",Market Ops,60,25,0
+v5,vendor,Hub or workspace secured where the model needs physical space,Market Ops,120,60,0
+v6,vendor,"Community resource directory built by county, not by state",Market Ops,60,35,0
+v7,vendor,Home visit safety protocol and field staff support line in place,Clinical Ops,50,25,1
+f1,flow,Referral intake path agreed with oncology practices and written down,Market Ops,90,40,0
+f2,flow,"Enrollment and consent workflow documented, including the outreach script",Clinical Ops,80,35,1
+f3,flow,"Handoffs mapped between engagement, care team and health partner",Clinical Ops,70,30,1
+f4,flow,Symptom escalation and after-hours triage pathway documented and rehearsed,Clinical Ops,60,30,1
+f5,flow,"Documentation standard set so a note serves care, quality and risk capture at once",Clinical Ops,55,25,1
+f6,flow,Case conference and huddle cadence defined with an owner per meeting,Market Ops,35,15,0
+f7,flow,Patient-facing materials reviewed for reading level and translated,Marketing,55,30,1
+g1,golive,End-to-end dry run on test patients across every system and handoff,Clinical Ops,25,15,1
+g2,golive,"Go, no-go criteria agreed in writing with a named decision owner",Clinical Ops,21,10,1
+g3,golive,Daily stabilization stand-up running with a live issue log,Market Ops,7,30,0
+g4,golive,KPI ownership confirmed for every launch metric before the first patient,Clinical Ops,14,10,1
+g5,golive,Day-thirty review scheduled and learnings written into the launch playbook,Clinical Ops,-21,20,1

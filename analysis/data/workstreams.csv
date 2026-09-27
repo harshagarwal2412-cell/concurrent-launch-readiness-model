@@ -1,0 +1,9 @@
+ws_id,label,sort_order
+payer,Payer contract and data,1
+legal,Licensure and credentialing,2
+staff,Clinical staffing,3
+train,Training and onboarding,4
+tools,Platform configuration,5
+vendor,Vendors and supply,6
+flow,Workflows and documentation,7
+golive,Go-live and stabilization,8
